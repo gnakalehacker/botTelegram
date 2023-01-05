@@ -9,7 +9,7 @@ const app = express();
 // Initialisation du client Coinbase Commerce
 CoinbaseCommerce.Client.init('872ffd29-35ce-45bd-b68b-87adb3da49c4', {
   webhookSecret: '779a207c-5c5a-443f-bade-cf052375f770',
-  webhookUrl: 'https://webhook.site/67344228-a31b-4a45-8f04-033d0bfb89b2',
+  webhookUrl: 'https://distinct-ninth-thing.glitch.me',
 });
 
 // Remplacez TOKEN par votre token de bot
